@@ -1,0 +1,23 @@
+Statistic,Value
+n test items,83
+positive-class prevalence,0.7590361445783133
+threshold (95th pct of normal-train scores),-0.04574253643227791
+ROC-AUC (all features),0.9468253968253968
+ROC-AUC bootstrap CI low (10000 resamples),0.8787839937839937
+ROC-AUC bootstrap CI high,0.992578125
+TP / FN / TN / FP,58 / 5 / 18 / 2
+recall,0.9206349206349206
+recall Wilson low,0.8272947198845853
+recall Wilson high,0.9656246596634805
+specificity,0.9
+specificity Wilson low,0.6989617935882066
+specificity Wilson high,0.9721341060158468
+"mean score, good",-0.06519747262316561
+"mean score, defective",0.0070378335446698165
+"Mann-Whitney p, good vs defective",2.105288106393113e-09
+median defect area ratio,0.05717777777777778
+"Spearman rho, area vs score (defective)",0.6802995391705069
+Spearman p,8.631488026572358e-10
+"Mann-Whitney p, large vs small score",1.4447306769134556e-06
+"Fisher exact p, large vs small recall",0.052823315118397086
+recall by area quartile (Q1..Q4),"12/16, 15/16, 15/15, 16/16"

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+
+# dataset (MVTec AD licence does not allow redistribution)
+data/*
+!data/README.md
+!data/.gitkeep

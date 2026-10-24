@@ -1,0 +1,7 @@
+Quantity,Value
+"Accept beats Reject if p < 3/(M+4), M = 5",0.3333333333333333
+"Accept beats Reject if p < 3/(M+4), M = 10",0.21428571428571427
+"Accept beats Reject if p < 3/(M+4), M = 20",0.125
+"Review beats Reject if p < (c+2)/3, c = -0.5",0.5
+"Review beats Reject if p < (c+2)/3, c = -1",0.3333333333333333
+"Review beats Reject if p < (c+2)/3, c = -2",0.0

@@ -1,0 +1,5 @@
+Defect type,N,Correctly passed,Detected
+good,20,18.0,
+broken_small,22,,20.0
+broken_large,20,,20.0
+contamination,21,,18.0

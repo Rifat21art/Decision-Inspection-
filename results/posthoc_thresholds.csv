@@ -1,0 +1,4 @@
+Rule,Threshold,Misses,False rejects,Miss weight,Weighted cost
+95th percentile of training scores (label-free),-0.04574253643227791,5,2,10,54
+"Cost-tuned, miss : false reject = 5 : 1",-0.06698072449876064,0,10,10,20
+"Cost-tuned, miss : false reject = 1 : 1",-0.05466978497482472,2,4,2,12
